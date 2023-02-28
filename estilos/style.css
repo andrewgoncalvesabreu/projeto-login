@@ -76,7 +76,8 @@ div.campo > i {
 }
 
 div.campo > input {
-    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     height: 100%;
     width: 210px;
     background-color: #364871;
