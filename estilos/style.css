@@ -17,6 +17,10 @@ body , html {
     width: 100vw;
 }
 
+input {
+    color:white;
+}
+
 main {
     position: relative;
     height: 100vh;
@@ -85,12 +89,11 @@ div.campo > input {
     border: 0px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
-    
     transform: translateY(-12px);
 }
 
 div.campo > input:focus-within {
-    background-color: white;
+    background-color: #5892EF;
 }
 
 form > div.campo {
